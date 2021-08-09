@@ -17,6 +17,21 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/.expo" />
+      <excludeFolder url="file://$MODULE_DIR$/.expo-shared" />
+      <excludeFolder url="file://$MODULE_DIR$/.git" />
+      <excludeFolder url="file://$MODULE_DIR$/.gitignore" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/.vscode" />
+      <excludeFolder url="file://$MODULE_DIR$/App.js" />
+      <excludeFolder url="file://$MODULE_DIR$/app.json" />
+      <excludeFolder url="file://$MODULE_DIR$/babel.config.js" />
+      <excludeFolder url="file://$MODULE_DIR$/metro.config.js" />
+      <excludeFolder url="file://$MODULE_DIR$/node_modules" />
+      <excludeFolder url="file://$MODULE_DIR$/package-lock.json" />
+      <excludeFolder url="file://$MODULE_DIR$/package.json" />
+      <excludeFolder url="file://$MODULE_DIR$/react-native.config.js" />
+      <excludeFolder url="file://$MODULE_DIR$/src" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
